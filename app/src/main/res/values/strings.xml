@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="date_time">Date Time</string>
+
+
+    <string name="android_notes">Android Notes</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2021_amrutham">2021, Amrutham</string>
+
+    <string name="titleeditactivity">titleeditactivity</string>
+    <string name="enter_title">enter title</string>
+
+    <string name="emptyNotes">Empty Notes cannot be saved</string>
+    <string name="noTitle">Notes with no title cannot be saved</string>
+    <string name="noContent">Notes with no content cannot be saved</string>
+    <string name="file_name">Notes</string>
+    <string name="encoding">UTF-8</string>
+    <string name="noFile">No JSON File Present</string>
+    <string name="saved">Note Saved!</string>
+    <string name="enter_note_title">Title</string>
+    <string name="enter_note_content">Content</string>
+    <string name="save_notes">save notes</string>
+    <string name="item">Item</string>
+    <string name="about">About</string>
+    <string name="new_notes">New notes</string>
+    <string name="enter_content">enter content</string>
+    <string name="contenteditactivity">contenteditactivity</string>
+    <string name="title">Title</string>
+    <string name="content">content</string>
+</resources>
